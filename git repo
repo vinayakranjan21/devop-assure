@@ -1,0 +1,13 @@
+mkdir devops-project
+cd devops-project
+
+git init
+
+echo "# DevOps Project" > README.md
+
+git add .
+git commit -m "Initial commit"
+
+git branch -M main
+git remote add origin <your-repository>
+git push -u origin main
