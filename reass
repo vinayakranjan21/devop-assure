@@ -1,0 +1,26 @@
+                    GitHub
+                       |
+                       v
+                GitHub Actions
+                       |
+             +---------+---------+
+             |                   |
+             v                   v
+        Terraform             Docker
+             |                   |
+             v                   v
+        AWS Infrastructure   Container Registry
+             |                   |
+             +---------+---------+
+                       |
+                       v
+                    Ansible
+                       |
+                       v
+               Configure Servers
+                       |
+                       v
+                  Kubernetes
+                       |
+                       v
+                 Application
